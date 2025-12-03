@@ -1,83 +1,54 @@
-<div align="center">
+# Mark Abramenko
 
-# Hi there, I'm Mark Abramenko 👋
+Computer Science Engineering Student at EPITA (Class of 2026)  
+Specializing in Artificial Intelligence
 
-### AI & Security Specialist | Engineering Student @ EPITA
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/markabramenko)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:mark.abramenko@epita.fr)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/markabramenko) | [mark.abramenko@epita.fr](mailto:mark.abramenko@epita.fr)
 
 ---
 
-## 🚀 About Me
+## Current Focus
 
-I am a **Computer Science Engineering Student** at **EPITA** (Class of 2026), specializing in **Artificial Intelligence**. I stand at the intersection of **Advanced AI**, **Software Security**, and **Full Stack Development**.
+Looking for a 6-month internship in Backend Development, AI Security, or Data Infrastructure.
 
-My philosophy is simple: **Building AI is easy. Securing it is the challenge.**
+## Technical Skills
 
-*   🎓 **Top 25%** of my promotion at EPITA.
-*   🛡️ **Security First:** Achieved **20/20** in Software Security.
-*   💻 **Code Quality:** Achieved **20/20** in Python & Node.js, **17/20** in Java.
-*   🌍 **Trilingual:** French, English, Ukrainian/Russian.
+**AI & Data Science**  
+Python, ML Pipelines, Predictive Models, Recommender Systems, Computer Vision, Neural Networks, GPT4All
 
-I am currently looking for a **6-month internship** in Backend Development, AI Security, or Data Infrastructure.
+**Security**  
+AES-256-GCM Cryptography, IAM, GDPR Compliance, End-to-End Encryption
 
----
+**Development**  
+Node.js, React, Java, Microservices, Distributed Architectures
 
-## 🛠️ Technical Arsenal
+**Databases**  
+MongoDB, Redis, Neo4j
 
-| Domain | Technologies & Skills |
-| :--- | :--- |
-| **🧠 AI & Data Science** | Python, ML Pipelines, Predictive Models, Recommender Systems, Computer Vision, Neural Networks, GPT4All (Local AI) |
-| **🛡️ Security** | AES-256-GCM Cryptography, IAM (Identity & Access Management), GDPR Compliance, End-to-End Encryption |
-| **💻 Development** | Node.js, React, Java, Microservices, Distributed Architectures |
-| **🗄️ Databases** | MongoDB, Redis, Neo4j (NoSQL Expertise) |
-| **⚙️ DevOps & Tools** | Docker, Git, CI/CD |
+**DevOps**  
+Docker, Git, CI/CD
 
 ---
 
-## 🏆 Featured Projects
+## Projects
 
-### 🛍️ Componentary
-**Intelligent E-commerce Platform with Behavioral Analysis**
+### Componentary
+Intelligent E-commerce Platform with Behavioral Analysis
 
-A sophisticated e-commerce solution that goes beyond simple transactions.
-*   **Core Tech:** Node.js, React, Microservices.
-*   **AI Features:** Real-time behavioral analysis and personalized recommendation engines.
-*   **Security:** Implemented strict input validation and intrusion protection systems to safeguard user data against manipulation.
+Node.js microservices platform with real-time behavioral analysis and personalized recommendation engines. Implemented strict input validation and intrusion protection systems.
 
-### 🤖 Extreme Minimalism AI Coach
-**Secure, Privacy-First AI Companion**
+### Extreme Minimalism AI Coach
+Secure, Privacy-First AI Companion
 
-A coaching companion built on the premise that privacy is non-negotiable.
-*   **Core Tech:** Local AI (GPT4All), Python.
-*   **Security:** Full **End-to-End Encryption (AES-256-GCM)**.
-*   **Privacy:** Runs entirely locally. No data leaves the user's device, ensuring zero risk of interception or external server dependency.
+Local AI coaching application using GPT4All with full AES-256-GCM encryption. Runs entirely locally with zero external data transmission.
 
 ---
 
-## 📊 GitHub Statistics
+## Activity
 
-<div align="center">
-
-![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrMarkGaruda&show_icons=true&theme=nord&count_private=true&include_all_commits=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrMarkGaruda&layout=compact&theme=nord&count_private=true&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrMarkGaruda&theme=nord&hide_border=true)
-
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrMarkGaruda&theme=dark&hide_border=true)
 
 ---
 
-## 📫 Connect with Me
-
-*   **Professional Email:** [mark.abramenko@epita.fr](mailto:mark.abramenko@epita.fr)
-*   **Personal Email:** [mark101020036@gmail.com](mailto:mark101020036@gmail.com)
-*   **LinkedIn:** [linkedin.com/in/markabramenko](https://www.linkedin.com/in/markabramenko)
-
-<!--
-**mrMarkGaruda/mrMarkGaruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+**Languages:** French, English, Ukrainian/Russian  
+**Academic Performance:** Top 25% at EPITA | 20/20 in Software Security | 20/20 in Python & Node.js | 17/20 in Java

@@ -1,4 +1,4 @@
-# Mark Abramenko
+# Mark ABRAMENKO
 
 Computer Science Engineering Student at EPITA (Class of 2026)  
 Specializing in Artificial Intelligence

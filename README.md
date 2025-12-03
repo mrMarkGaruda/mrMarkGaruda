@@ -62,11 +62,11 @@ A coaching companion built on the premise that privacy is non-negotiable.
 
 <div align="center">
 
-[![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrMarkGaruda&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/mrMarkGaruda)
+![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrMarkGaruda&show_icons=true&theme=nord&count_private=true&include_all_commits=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrMarkGaruda&layout=compact&theme=radical)](https://github.com/mrMarkGaruda)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrMarkGaruda&layout=compact&theme=nord&count_private=true&hide_border=true&langs_count=8)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrMarkGaruda&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrMarkGaruda&theme=nord&hide_border=true)
 
 </div>
 
